@@ -33,7 +33,7 @@
                 "PLATFORM_DESKTOP"
             ],
             "macFrameworkPath": [
-                "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks"
+                "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk"
             ],
             "compilerPath": "/usr/bin/clang",
             "cStandard": "c11",
